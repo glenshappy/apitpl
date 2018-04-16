@@ -1,0 +1,17 @@
+yii\web\Session::__set_state(array(
+   'flashParam' => '__flash',
+   'handler' => NULL,
+   '_cookieParams' => 
+  array (
+    'httponly' => true,
+  ),
+   'frozenSessionData' => NULL,
+   '_hasSessionId' => NULL,
+   '_events' => 
+  array (
+  ),
+   '_eventWildcards' => 
+  array (
+  ),
+   '_behaviors' => NULL,
+))
